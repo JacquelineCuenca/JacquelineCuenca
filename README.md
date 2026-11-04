@@ -50,3 +50,9 @@ Simulador de la fase de grupos del Mundial 2026 que permite gestionar equipos y 
 - **Tecnologías usadas:** Ensamblador MIPS32, llamadas al sistema (syscall), estructuras de datos: arreglos de palabras, cadenas .asciiz, arreglos paralelos y la pila para guardar registros.
 - **Funcionalidades principales:** Gestión de equipos, simulación de goles, tabla de posiciones y clasificación.
 - **Repositorio:** [Ver proyecto](https://github.com/JacquelineCuenca/simulador-mundial-2026)
+
+## Contacto 📬
+¡Me encantaría conectar con otras personas, compartir conocimientos y colaborar en nuevos proyectos!
+
+- **GitHub:** [JacquelineCuenca](https://github.com/JacquelineCuenca)
+- **LinkedIn:** [Jacqueline Anahí Cuenca Sáez](https://www.linkedin.com/in/jacqueline-anah%C3%AD-cuenca-s%C3%A1ez-646228293/)
