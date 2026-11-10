@@ -1,13 +1,12 @@
 # ¡Hola👋! Soy
 ![Nombre Jacqueline formado con imágenes satelitales de Landsat](./images/Jacqueline.png)
-Estudiante de Ingeniería en Computación en ESPOL.
 
-## Sobre mí 🥰
+## Sobre mí
+- Soy estudiante de Ingeniería en Computación en ESPOL 🐢
 - Creo que cada día es una nueva oportunidad para aprender algo diferente.
 - Disfruto asumir nuevos retos y participar en proyectos que me permitan crecer.
-- Me interesa transformar ideas en soluciones tecnológicas útiles.
 
-## Áreas de interés 💡
+## Áreas de interés
 
 <table>
   <tr>
@@ -26,20 +25,28 @@ Estudiante de Ingeniería en Computación en ESPOL.
   </tr>
 </table>
 
-## Habilidades y tecnologías 💻
-**Lenguajes de programación y desarrollo web**
-- Python
-- Java
-- C++
-- SQL
-- HTML
+## Tecnologías y Herramientas utilizadas
+| Tecnología o herramienta | Aplicación |
+|---|---|
+| HTML5 | Estructuración del contenido de páginas web. |
+| CSS | Diseño y presentación visual de los sitios web. |
+| JavaScript | Desarrollo de funcionalidades e interactividad web. |
+| Google Maps | Incorporación de mapas mediante un iframe. |
+| Git y GitHub | Control de versiones y almacenamiento de proyectos. |
+| GitHub Pages | Publicación de sitios web. |
+| Ensamblador MIPS32 | Desarrollo de la lógica del simulador del Mundial 2026. |
+| Java | Implementación de la lógica de la aplicación móvil de vuelos. |
+| Android Studio | Entorno de desarrollo de la aplicación móvil. |
+| Gradle | Gestión de la compilación y configuración del proyecto Android. |
+| Grafos | Representación de aeropuertos y conexiones entre vuelos. |
 
-## Proyectos destacados 🚀
+
+## Proyectos destacados
 
 ### 🌎 Explorando la cultura con la web
 Sitio web que explora la evolución de los juegos tradicionales y actuales mediante experiencias y opiniones de diferentes generaciones.
 
-- **Tecnologías usadas:** HTML5, CSS, JavaScript, Google Maps (iframe incrustado), GitHub y GitHub Pages.
+- **Tecnologías usadas:** HTML5, CSS, JavaScript, Google Maps (iframe), Git y GitHub Pages.
 - **Funcionalidades principales:** Presentación de juegos tradicionales y actuales, comparación entre generaciones y exposición de experiencias y opiniones recopiladas mediante entrevistas.
 - **Repositorio:** [Ver proyecto](https://github.com/JacquelineCuenca/Explorando-la-cultura-con-la-web)
 - **Demo:** [Ver sitio web](https://jacquelinecuenca.github.io/Explorando-la-cultura-con-la-web/)
@@ -47,11 +54,18 @@ Sitio web que explora la evolución de los juegos tradicionales y actuales media
 ### ⚽ Simulador Mundial 2026
 Simulador de la fase de grupos del Mundial 2026 que permite gestionar equipos y recrear partidos con resultados aleatorios.
 
-- **Tecnologías usadas:** Ensamblador MIPS32, llamadas al sistema (syscall), estructuras de datos: arreglos de palabras, cadenas .asciiz, arreglos paralelos y la pila para guardar registros.
+- **Tecnologías usadas:** Ensamblador MIPS32, llamadas al sistema (syscall), arreglos de palabras, cadenas .asciiz, arreglos paralelos y manejo de registros mediante la pila.
 - **Funcionalidades principales:** Gestión de equipos, simulación de goles, tabla de posiciones y clasificación.
 - **Repositorio:** [Ver proyecto](https://github.com/JacquelineCuenca/simulador-mundial-2026)
 
-## Contacto 📬
+### ✈️ Red de vuelos del Aeropuerto Internacional de Daxing (PKX)
+Aplicación móvil que representa la red de vuelos del Aeropuerto Internacional de Daxing mediante un grafo dirigido y ponderado. Los nodos representan aeropuertos y las aristas representan los vuelos que los conectan.
+
+- **Tecnologías usadas:** Java, Android Studio, Gradle y estructuras de datos basadas en grafos.
+- **Funcionalidades principales:** Carga y visualización de la red de vuelos, búsqueda de rutas óptimas entre aeropuertos, consulta de estadísticas de conectividad y gestión de aeropuertos y vuelos (agregar, editar y eliminar).
+- **Repositorio:** [Ver proyecto](https://github.com/JacquelineCuenca/Proyecto_Estructura_datos)
+
+## Contacto
 ¡Me encantaría conectar con otras personas, compartir conocimientos y colaborar en nuevos proyectos!
 
 - **GitHub:** [JacquelineCuenca](https://github.com/JacquelineCuenca)
