@@ -26,19 +26,16 @@
 </table>
 
 ## Tecnologías y Herramientas utilizadas
-| Tecnología o herramienta | Aplicación |
-|---|---|
-| HTML5 | Estructuración del contenido de páginas web. |
-| CSS | Diseño y presentación visual de los sitios web. |
-| JavaScript | Desarrollo de funcionalidades e interactividad web. |
-| Google Maps | Incorporación de mapas mediante un iframe. |
-| Git y GitHub | Control de versiones y almacenamiento de proyectos. |
-| GitHub Pages | Publicación de sitios web. |
-| Ensamblador MIPS32 | Desarrollo de la lógica del simulador del Mundial 2026. |
-| Java | Implementación de la lógica de la aplicación móvil de vuelos. |
-| Android Studio | Entorno de desarrollo de la aplicación móvil. |
-| Gradle | Gestión de la compilación y configuración del proyecto Android. |
-| Grafos | Representación de aeropuertos y conexiones entre vuelos. |
+- **Java**: Desarrollo de aplicaciones mediante programación orientada a objetos.
+- **HTML5:** Estructuración del contenido de páginas web.
+- **CSS:** Diseño y presentación visual de los sitios web.
+- **JavaScript:** Implementación de funcionalidades e interactividad en páginas web.
+- **Git y GitHub:** Control de versiones y almacenamiento de los proyectos.
+- **GitHub Pages:** Publicación de sitios web.
+- **Ensamblador MIPS32:** Implementación de la lógica y funcionalidades del simulador del Mundial 2026.
+- **Android Studio:** Entorno utilizado para el desarrollo de aplicaciones móviles.
+- **Gradle:** Gestión de la compilación y dependencias del proyecto Android.
+- **Python**: Desarrollo de programas mediante estructuras de control, funciones y manipulación de datos.
 
 
 ## Proyectos destacados
